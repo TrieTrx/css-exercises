@@ -33,8 +33,7 @@ body {
 }
 
 button {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0px auto;
   display: flex;
   background: white;
   border: 1px solid #eee;
