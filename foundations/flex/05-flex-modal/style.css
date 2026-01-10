@@ -40,15 +40,12 @@ body {
   margin-right: 18px;
 }
 
-.up {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 8px;
-}
-
 .header {
   font-weight: bold;
   font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
 }
 
 .close-button {
@@ -66,14 +63,14 @@ body {
   padding: 0;
 }
 
+.text {
+  margin-bottom: 16px;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
-}
-
-.bot {
-  margin-top: 10px;
 }
 
 button.continue {
