@@ -19,6 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px 16px;
 }
 
 a {
@@ -57,8 +58,4 @@ li {
   justify-content: center;
   align-items: center;
   gap: 8px;
-}
-
-.buttons {
-  padding: 10px;
 }
